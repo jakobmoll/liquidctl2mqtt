@@ -1,0 +1,4 @@
+{
+  "liquidctlPath" : "C:\\temp\\liquidctl-1.7.1\\liquidctl.exe",
+  "liquictlArgs" : "-n 1 status --json"
+}

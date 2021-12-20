@@ -1,0 +1,22 @@
+{
+  "name": "liquidctl2mqtt",
+  "version": "1.0.0",
+  "description": "Export data from liquidctl to mqtt (for homeassistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakobmoll/liquidctl2mqtt.git"
+  },
+  "author": "Jakob Moll",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakobmoll/liquidctl2mqtt/issues"
+  },
+  "homepage": "https://github.com/jakobmoll/liquidctl2mqtt#readme",
+  "dependencies": {
+    "shelljs": "^0.8.4"
+  }
+}
